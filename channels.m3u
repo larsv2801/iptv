@@ -1,55 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1, Nostalgie
+#EXTINF:-1 tvg-name="Nostalgie" tvg-logo="https://images.play.tv/styles/0efe8c9a1a45511fe53ad47b02b82b32f480d1819874e6fb6d37c54cf9a2f5ea/2025-10/nostalgietrans-t3g5b4-t43zkx.png?style=W10=&sign=5e7e04a17f6dd9adf2df752fd8c22af9f0fb659f5f46071824105c06f1cdb6ca", Nostalgie
 https://da-d5e0a2322a021800011680030000120300050015.id.cdn1.prd.telenet-ops.be/wp/stream2-linear.cdn1.sbs.prd.telenet-ops.be/ch/playnostalgie/dash.mpd
 
-#EXTINF:-1, Qmusic
+#EXTINF:-1 tvg-name="Qmusic", Qmusic
 https://live-video-vtmgo.dpgmedia.net/cat/v1/643576786b45786a726c744748573534697746616a4b497864616a4d6430334c4f314a685a6f47696241456e536574516a2f475a2f56632f4742345152565a772f305561554d4366394a707a56546776343957624f673d3d/emp/e087512ad0c32643/out/v1/771ca6dbdaca4a39a0bcdec844f0a408/index.mpd
 
-#EXTINF:-1, Studio Brussel
+#EXTINF:-1 tvg-name="Studio Brussel", Studio Brussel
 https://live-radio.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8
 
-#EXTINF:-1, MNM
+#EXTINF:-1 tvg-name="MNM", MNM
 https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
 #EXTINF:-1, Nasa TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:-1, Bruzz
+#EXTINF:-1 tvg-name="Bruzz", Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
 
-#EXTINF:-1, ATV
+#EXTINF:-1 tvg-name="ATV", ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 
-#EXTINF:-1, Focus
+#EXTINF:-1 tvg-name="Focus", Focus
 https://focuslive.b-cdn.net/playlist.m3u8
 
-#EXTINF:-1, WTV
+#EXTINF:-1 tvg-name="WTV", WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
 
-#EXTINF:-1, TV Limburg
+#EXTINF:-1 tvg-name="TV Limburg", TV Limburg
 https://live.tvl.cdn.zndznd.com/cmaf/29375_395474/index.mpd
 
-#EXTINF:-1, ROB TV
+#EXTINF:-1 tvg-name="ROB TV", ROB TV
 https://live.robtv.cdn.zndznd.com/cmaf/29375_395477/index.mpd
 
-#EXTINF:-1, Ring TV
+#EXTINF:-1 tvg-name="Ring TV", Ring TV
 https://stream.a.zndznd.com/stream/27c43828-3e05-4613-972b-d7a8f602f9e7/stream.m3u8
 
-#EXTINF:-1, TVO
+#EXTINF:-1 tvg-name="TVO", TVO
 https://live.tvoost.cdn.zndznd.com/cmaf/29375_399410/index.mpd
 
-#EXTINF:-1, Red Bull Tv
+#EXTINF:-1 tvg-name="Red Bull TV", Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, Olympic Channel
 https://ott-dai-oc.akamaized.net/OC1/master.m3u8?hdnts=exp=1773596959~acl=/*~hmac=136ef807823b03b476248c7cb87af10a93dff44a19a1b4cb867d9699c2d39362
 
-#EXTINF:-1, Natuurbeelden
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE4jd61e0CIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.PsnV3_9altscw0yN7FIZb2KH_iy40tBrXG-BL0kE0wgVQIlChsVx4RUuM-SeEGjtmx67rvHGrE2h4qrHxogLPA&domain=www.earthtv.com
+#EXTINF:-1  tvg-name="Natuurbeelden", Natuurbeelden
+https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
 
-#EXTINF:-1, Formule 1
+#EXTINF:-1 tvg-name="Formule 1", Formule 1
 https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
-#EXTINF:-1, Formule 1 2
+#EXTINF:-1 tvg-name="Formule 1 - 2", Formule 1 2
 https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8?skf1=
