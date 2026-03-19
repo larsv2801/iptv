@@ -53,3 +53,9 @@ https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-name="Formule 1 - 2" tvg-logo="https://i.imgur.com/tMiABxD.png", Formule 1 2
 https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8?skf1=
+
+#EXTINF:-1 tvg-name="NL RTV Noord" tvg-logo="https://s.regiogroei.cloud/rtvNoord/promoImages/N-logo_FC_los_900x900.jpg?width=552&height=553&aspect_ratio=552:553", NL RTV Noord
+https://s-dde0caad.b.cdn.bluebillywig.com/live/rtvnoord/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="NL RTV Oost" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4-Ya6CjOlS1GDcvqrHHjsPW15azoReCH5g&s", NL RTV Oost
+https://s-5d1a2a32.b.cdn.bluebillywig.com/live/rtvoost/tv/index.m3u8
