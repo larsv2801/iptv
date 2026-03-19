@@ -46,7 +46,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
 #EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
-https://videos-3.earthcam.com/fecnetwork/13706.flv/chunklist_w1139106901.m3u8?t=z6nB2mvB7fVRwGP9d5q8HkQOt517mPZeS8kGxr9WE4xxeyqxPk3wAwRo+xk/xq5U&td=202603161356
+https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
 
 #EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
 https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
