@@ -60,20 +60,20 @@ https://s-dde0caad.b.cdn.bluebillywig.com/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-name="NL RTV Oost" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4-Ya6CjOlS1GDcvqrHHjsPW15azoReCH5g&s", NL RTV Oost
 https://s-5d1a2a32.b.cdn.bluebillywig.com/live/rtvoost/tv/index.m3u8
 
-#EXTINF:-1 tvg-name="Stingray Classica Stream" tvg-logo="", Stingray Classica Stream
+#EXTINF:-1 tvg-name="Stingray Classica Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png", Stingray Classica Stream
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=j6PxE5sByz-srMaczX5K
 
-#EXTINF:-1 tvg-name="UFC" tvg-logo="", UFC
+#EXTINF:-1 tvg-name="UFC" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272931.png", UFC
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=x5CXHhJsMWE4PsN-5tMW
 
-#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="", FUEL TV
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://play-lh.googleusercontent.com/ydCo2OAwKAodTP1ue1CJOx9yuMahfaMDwCfnJF1HUlCbK39KG5rcJcQutTF03Z9Ncg", FUEL TV
 https://epg-ipv4.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8?X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN&includeAllStreams=1&redirectedFromV6=1
 
-#EXTINF:-1 tvg-name="Monster Jam" tvg-logo="", Monster Jam
+#EXTINF:-1 tvg-name="Monster Jam" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Monster-Jam-Logo.jpg", Monster Jam
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN
 
-#EXTINF:-1 tvg-name="TED" tvg-logo="", TED
+#EXTINF:-1 tvg-name="TED" tvg-logo="https://herseninstituut.nl/wp-content/uploads/2023/01/ted-logo-fb.png", TED
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
 
-#EXTINF:-1 tvg-name="Robot Wars" tvg-logo="", Robot Wars
+#EXTINF:-1 tvg-name="Robot Wars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTY9P053PcyecNzLjt-n5kXZSSvmU9Ts8XyQ&s", Robot Wars
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
