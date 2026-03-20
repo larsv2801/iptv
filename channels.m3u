@@ -59,3 +59,21 @@ https://s-dde0caad.b.cdn.bluebillywig.com/live/rtvnoord/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="NL RTV Oost" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4-Ya6CjOlS1GDcvqrHHjsPW15azoReCH5g&s", NL RTV Oost
 https://s-5d1a2a32.b.cdn.bluebillywig.com/live/rtvoost/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Classica Stream" tvg-logo="", Stingray Classica Stream
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=j6PxE5sByz-srMaczX5K
+
+#EXTINF:-1 tvg-name="UFC" tvg-logo="", UFC
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1/variant.m3u8?x-plex-token=j6PxE5sByz-srMaczX5K&x-plex-advertising-identifier=&x-plex-client-identifier=2a7b3457-b3ee-4b5c-a02c-0cfabd2418ad&x-plex-playback-id=p_116f1800-0c8c-4f45-b7da-cabdcc0d2ccc&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=148.0&x-plex-product=Plex Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1774026704&url=f748c23e59307ee4052ea5df7ef56762-79d3d66f765943139a37b0d1866c1216d907cc97a55c251633f5c73d1af197385b680be11a99c0c8becb88b61d56327acc7e3705a5ba1bba8a2aa3895ba16caf222d8c1f2594297a4673e7a1cad58a35d70df2fac7e92055c1e2115c69a0d22079ae3ef221cec8752272662c34f0a786357b5b4537f9aa4e478d40014a54893bbae4e952ef5ebcea2d3804d6c5b0ee93a933747011b6db83086b428d13e64dd2f2d2853c4ac7d772ec9994b83a8c296c4b526c4b1aa27c2091076175ff081d3a677292df1e2c10d08ef27f1bb263d6ef
+
+#EXTINF:-1 tvg-name="Unbeaten" tvg-logo="", Unbeaten
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN
+
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="", FUEL TV
+https://epg-ipv4.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8?X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN&includeAllStreams=1&redirectedFromV6=1
+
+#EXTINF:-1 tvg-name="Monster Jam" tvg-logo="", Monster Jam
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN
+
+#EXTINF:-1 tvg-name="RACER International" tvg-logo="", RACER International
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=3ghQBabxz6h2CmuNbcgN
