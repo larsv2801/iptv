@@ -42,18 +42,6 @@ https://live.tvoost.cdn.zndznd.com/cmaf/29375_399410/index.mpd
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://colorlib.com/wp/wp-content/uploads/sites/2/olympic-logo-2024.png", Olympic Channel
-https://ott-dai-oc.akamaized.net/OC1/master.m3u8
-
-#EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
-https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
-
-#EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
-https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
-
-#EXTINF:-1 tvg-name="Formule 1 - 2" tvg-logo="https://i.imgur.com/tMiABxD.png", Formule 1 2
-https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8?skf1=
-
 #EXTINF:-1 tvg-name="NL RTV Noord" tvg-logo="https://s.regiogroei.cloud/rtvNoord/promoImages/N-logo_FC_los_900x900.jpg?width=552&height=553&aspect_ratio=552:553", NL RTV Noord
 https://s-dde0caad.b.cdn.bluebillywig.com/live/rtvnoord/tv/index.m3u8
 
@@ -77,3 +65,18 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb86
 
 #EXTINF:-1 tvg-name="Robot Wars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTY9P053PcyecNzLjt-n5kXZSSvmU9Ts8XyQ&s", Robot Wars
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
+
+#EXTINF:-1 tvg-name="Kora Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Kora_Plus.png", Kora Plus
+https://fastly.live.brightcove.com/6386030131112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMzAxMzExMTIifQ.aZa3dfTqySgbsPGs64c0_JTfvR1mKUmvdlDJ1WTeDgo/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
+https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-name="Formule 1 - 2" tvg-logo="https://i.imgur.com/tMiABxD.png", Formule 1 2
+https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8?skf1=
+
+#EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://colorlib.com/wp/wp-content/uploads/sites/2/olympic-logo-2024.png", Olympic Channel
+https://ott-dai-oc.akamaized.net/OC1/master.m3u8
+
+#EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
+https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
