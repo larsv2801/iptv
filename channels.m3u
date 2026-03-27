@@ -66,9 +66,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb86
 #EXTINF:-1 tvg-name="Robot Wars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTY9P053PcyecNzLjt-n5kXZSSvmU9Ts8XyQ&s", Robot Wars
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
 
-#EXTINF:-1 tvg-name="Kora Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Kora_Plus.png", Kora Plus
-https://fastly.live.brightcove.com/6386030131112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMzAxMzExMTIifQ.aZa3dfTqySgbsPGs64c0_JTfvR1mKUmvdlDJ1WTeDgo/playlist-hls.m3u8
-
 #EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
 https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
