@@ -13,7 +13,7 @@ https://live-radio.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/li
 https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
 #EXTINF:-1 tvg-name="Nasa TV" tvg-logo="https://images.seeklogo.com/logo-png/19/2/nasa-logo-png_seeklogo-195796.png", Nasa TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+https://live-ak.vimeocdn.com/exp=1774632584~acl=%2F78e6c5c5-4b52-4b55-99fd-a2a31ba0fcf3%2F%2A~hmac=39941c712d9347f68d846e9daa1b172e53c0df4167715c816083e746eaf6c80c/78e6c5c5-4b52-4b55-99fd-a2a31ba0fcf3/avc/hls.m3u8
 
 #EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BRUZZ_logo.svg/1280px-BRUZZ_logo.svg.png", Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
