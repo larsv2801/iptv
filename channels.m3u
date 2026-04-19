@@ -42,6 +42,9 @@ https://live.tvoost.cdn.zndznd.com/cmaf/29375_399410/index.mpd
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-name="Nickelodeon US" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Nickelodeon US
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
 #EXTINF:-1 tvg-name="NL RTV Noord" tvg-logo="https://s.regiogroei.cloud/rtvNoord/promoImages/N-logo_FC_los_900x900.jpg?width=552&height=553&aspect_ratio=552:553", NL RTV Noord
 https://s-dde0caad.b.cdn.bluebillywig.com/live/rtvnoord/tv/index.m3u8
 
