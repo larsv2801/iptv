@@ -42,6 +42,12 @@ https://live.tvoost.cdn.zndznd.com/cmaf/29375_399410/index.mpd
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-name="Space TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png", Space TV
+https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ UK" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png", FIFA+ UK
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Nickelodeon US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/3840px-Nickelodeon_2009_logo.svg.png", Nickelodeon US
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
