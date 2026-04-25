@@ -42,6 +42,9 @@ https://live.tvoost.cdn.zndznd.com/cmaf/29375_399410/index.mpd
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-name="Slopes TV" tvg-logo="https://pngimg.com/d/red_bull_PNG12.png", Slopes TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=MNVxjHJB7JKxhyyogh3P
+
 #EXTINF:-1 tvg-name="Space TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png", Space TV
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 
