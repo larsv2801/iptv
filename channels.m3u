@@ -12,8 +12,11 @@ https://live-radio.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/li
 #EXTINF:-1 tvg-name="MNM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/MNM_BE_2024.png/revision/latest/scale-to-width-down/250?cb=20240902014054", MNM
 https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Play Crime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Play_Crime_2025_II.svg/revision/latest?cb=20251015075204", Play Crime
+#EXTINF:-1 tvg-name="Play Crime" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/h-140/t_2540_001.png", Play Crime
 https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd
+
+#EXTINF:-1 tvg-name="Rally TV" tvg-logo="https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-", Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 
 #EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BRUZZ_logo.svg/1280px-BRUZZ_logo.svg.png", Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
