@@ -78,6 +78,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb86
 #EXTINF:-1 tvg-name="Robot Wars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTY9P053PcyecNzLjt-n5kXZSSvmU9Ts8XyQ&s", Robot Wars
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
 
+#EXTINF:-1 tvg-name="RTL Zwee" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s", RTL Zwee
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
 https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
