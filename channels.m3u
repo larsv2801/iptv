@@ -78,7 +78,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb86
 #EXTINF:-1 tvg-name="Robot Wars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTY9P053PcyecNzLjt-n5kXZSSvmU9Ts8XyQ&s", Robot Wars
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=cP9KSx4y3__Mz-J2hdzV
 
-#EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://images.ad.nl/NWVjNzYyNTFmMDYwY2I5YjJkNzAvZGlvLzExNTU0MDg4Ni9maXQtd2lkdGgvODAw/het-nieuwe-logo", Formule 1
+#EXTINF:-1 tvg-name="Formule 1" tvg-logo="https://external-preview.redd.it/meet-the-new-f1-logo-v0-y6yxM1Gt1yjRqTqj_Oge25q721iPW5UFuVUdYnfJfJY.jpg?auto=webp&s=320f07d0711fdf8f797891e6a4bf21ff5506c0ec", Formule 1
 https://proxy4.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-name="Formule 1 - 2" tvg-logo="https://i.imgur.com/tMiABxD.png", Formule 1 2
@@ -87,10 +87,10 @@ https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/ind
 #EXTINF:-1 tvg-name="Formule 1 - 3" tvg-logo="https://i.imgur.com/m9eGYo2.png", Formule 1 3
 https://proxy.f1live.dpdns.org/m3u8?url=https://a1xs.vip/2000005
 
-#EXTINF:-1 tvg-name="Formule 1 - 4" tvg-logo="https://imgur.com/a/SCiULKC", Formule 1 4
+#EXTINF:-1 tvg-name="Formule 1 - 4" tvg-logo="https://i.imgur.com/mXnGIRn.png", Formule 1 4
 https://hakunamatata5.org:8088/hls/sky-f1.m3u8
 
-#EXTINF:-1 tvg-name="Formule 1 - 5" tvg-logo="https://imgur.com/a/64iqYey, Formule 1 5
+#EXTINF:-1 tvg-name="Formule 1 - 5" tvg-logo="https://i.imgur.com/R2UMxxp.png" Formule 1 5
 https://proxy.f1live.dpdns.org/m3u8?url=http%3A%2F%2Fstream.bottledesk.net%2Fp%2FAwZGQwwEZA%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Dc1lhdWg1N0lxNldaaE12ZnJ0MkRsY1NtcVoyQnk2eUYzWXVkbUthcHhxekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ%3D%3D
 
 #EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://colorlib.com/wp/wp-content/uploads/sites/2/olympic-logo-2024.png", Olympic Channel
