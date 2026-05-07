@@ -98,3 +98,822 @@ https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
 #EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
 https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E01
+https://vod.vrtcdn.be/remix/content/vod/pl-588758b2-dee7-4f87-a474-df942c2a6699/pl-588758b2-dee7-4f87-a474-df942c2a6699_nodrm_550d3dbc-4972-40c0-9090-2fb9b698eb1e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E02
+https://vod.vrtcdn.be/remix/content/vod/pl-07558d3e-b6b5-4c8f-92f4-910f5164bcb1/pl-07558d3e-b6b5-4c8f-92f4-910f5164bcb1_nodrm_57453856-b246-42b2-8574-7d08fc4e5343.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E03
+https://vod.vrtcdn.be/remix/content/vod/pl-b5289ef8-6b7c-4a71-a581-97b6a5db1d9d/pl-b5289ef8-6b7c-4a71-a581-97b6a5db1d9d_nodrm_91a4f96f-5693-4187-947a-7c07d90fea9a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E04
+https://vod.vrtcdn.be/remix/content/vod/pl-5611b47d-7dac-4b1f-832d-4dc6be4660f7/pl-5611b47d-7dac-4b1f-832d-4dc6be4660f7_nodrm_3e0b5a3f-a237-4b7f-8f02-4b0667860ef6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E05
+https://vod.vrtcdn.be/remix/content/vod/pl-118e03b4-e844-4eb1-9e9d-d5bf727c7fe1/pl-118e03b4-e844-4eb1-9e9d-d5bf727c7fe1_nodrm_8777e5e6-95b7-4d58-a829-92aafea79375.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="andermans zaken",andermans zaken - S04E06
+https://vod.vrtcdn.be/remix/content/vod/pl-c4d06dfe-d575-4a13-a06e-af2ff7430795/pl-c4d06dfe-d575-4a13-a06e-af2ff7430795_nodrm_18c24fe2-df95-491d-b2fe-f10434d36156.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d4511cd8-cdb7-47d9-8477-f7bc45316c3c_6_HD2022/vid-dis-d4511cd8-cdb7-47d9-8477-f7bc45316c3c_6_HD2022_nodrm_4e792ec6-09ca-4269-8a2b-b623108efd2b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3ed48e70-0d44-4977-b6dc-0b7d5a02c9f2_5_HD2022/vid-dis-3ed48e70-0d44-4977-b6dc-0b7d5a02c9f2_5_HD2022_nodrm_b1202d05-228e-4dc5-ac49-b6e3d8c15193.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-37bbc65a-6858-42b5-8ffe-eb55a2e84139_6_HD2022/vid-dis-37bbc65a-6858-42b5-8ffe-eb55a2e84139_6_HD2022_nodrm_979ee9fb-6ec6-497f-9215-4048028a6659.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-125df955-9a2e-467e-b66b-ae2c73906fad_6_HD2022/vid-dis-125df955-9a2e-467e-b66b-ae2c73906fad_6_HD2022_nodrm_573f64ef-23f5-420f-9936-ae8439470327.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-44f4da64-ee69-4dc2-83c5-7ac09441528a_6_HD2022/vid-dis-44f4da64-ee69-4dc2-83c5-7ac09441528a_6_HD2022_nodrm_92a96fc5-22a3-4159-be44-57d304600a7a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9f058278-b5c7-4d9b-84dc-db16e9738009_5_HD2022/vid-dis-9f058278-b5c7-4d9b-84dc-db16e9738009_5_HD2022_nodrm_6749add7-44d1-45bc-a2ad-00ef5f58e647.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f087d6e5-09fc-49b3-a5d4-c8d8323129b2_6_HD2022/vid-dis-f087d6e5-09fc-49b3-a5d4-c8d8323129b2_6_HD2022_nodrm_b6fb078b-0b93-4671-8f49-f844573b06b0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e8410f57-3f0f-4896-900d-5578abb4e0da_5_HD2022/vid-dis-e8410f57-3f0f-4896-900d-5578abb4e0da_5_HD2022_nodrm_ca6379f1-5d3c-4e9e-b8f6-220f052b2f53.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ca5395fa-6ebc-4d18-9c3e-15774466a163_6_HD2022/vid-dis-ca5395fa-6ebc-4d18-9c3e-15774466a163_6_HD2022_nodrm_b9e5feda-60e2-4d5b-a179-4f94b55005b0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-94fb1965-1108-4537-93b7-9640abe242e7_5_HD2022/vid-dis-94fb1965-1108-4537-93b7-9640abe242e7_5_HD2022_nodrm_495ed737-8c36-474b-a2ca-d804b56c8f78.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-54cb39fc-667b-4eac-aeee-f6830c647111_5_HD2022/vid-dis-54cb39fc-667b-4eac-aeee-f6830c647111_5_HD2022_nodrm_0c94666c-074e-403d-80bb-0d0296626fa6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cd76a8a0-8b2a-4d25-9bc6-4a97e651562f_5_HD2022/vid-dis-cd76a8a0-8b2a-4d25-9bc6-4a97e651562f_5_HD2022_nodrm_6b88f354-ae5e-4eb4-8d0c-30737f0fab40.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S01E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3761c6cb-8a92-4f8a-a1c7-66c9600e2c52_5_HD2022/vid-dis-3761c6cb-8a92-4f8a-a1c7-66c9600e2c52_5_HD2022_nodrm_9d8e190e-d24c-4d2c-b7e0-6e63f2958d22.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-73619a94-088e-4dee-9f69-9f862aa0dc3e_4_HD2022/vid-dis-73619a94-088e-4dee-9f69-9f862aa0dc3e_4_HD2022_nodrm_c705bdcb-accd-4d82-9eba-252ea5e08ae2.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c7395392-fb01-4e7f-953c-f2116ad3b80b_4_HD2022/vid-dis-c7395392-fb01-4e7f-953c-f2116ad3b80b_4_HD2022_nodrm_6982c052-595b-46f1-8f64-633e726cceff.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f4122254-0088-47a7-a89b-b08d50348bbb_5_HD2022/vid-dis-f4122254-0088-47a7-a89b-b08d50348bbb_5_HD2022_nodrm_0553ff80-3df3-4b59-84ae-4f655a65522b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ae768668-d53e-4e63-9ba7-fd47fb94ddc6_5_HD2022/vid-dis-ae768668-d53e-4e63-9ba7-fd47fb94ddc6_5_HD2022_nodrm_00be826d-b7c7-4bcf-9f83-f3ce8e2d5624.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a11cbd14-9417-44c0-a077-40068a3c8255_5_HD2022/vid-dis-a11cbd14-9417-44c0-a077-40068a3c8255_5_HD2022_nodrm_b259f942-5f89-461f-aa09-c1737be3b22e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3ad90554-878b-4d58-8294-dbcb3c5df59b_5_HD2022/vid-dis-3ad90554-878b-4d58-8294-dbcb3c5df59b_5_HD2022_nodrm_e16af5d5-7ff3-4ecc-b777-91c32d9e2359.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-365576bf-cb98-464c-bc72-db680ea86969_5_HD2022/vid-dis-365576bf-cb98-464c-bc72-db680ea86969_5_HD2022_nodrm_cd94514d-164c-498f-b553-680feb8f4155.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-80377735-7c3a-4b6b-8eb9-42741c8a7a7d_4_HD2022/vid-dis-80377735-7c3a-4b6b-8eb9-42741c8a7a7d_4_HD2022_nodrm_2d38225a-e48d-4bf5-bb9c-0db9b5fbb1b4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-89c6baac-522e-4ff4-8ec9-c4a67248bc57_4_HD2022/vid-dis-89c6baac-522e-4ff4-8ec9-c4a67248bc57_4_HD2022_nodrm_26064233-d541-4fe1-9395-200ef221431d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ebded3c3-df19-4c99-99aa-c18bd656be56_5_HD2022/vid-dis-ebded3c3-df19-4c99-99aa-c18bd656be56_5_HD2022_nodrm_ff21caa7-d68e-47c0-9c75-3db0f320cfad.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-09264286-d075-4e76-b3d7-6ca703f515e8_4_HD2022/vid-dis-09264286-d075-4e76-b3d7-6ca703f515e8_4_HD2022_nodrm_5b5dac56-2355-4966-a338-c9af6e878c17.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-558130af-d1e0-46a4-8aa2-e350618054d5_4_HD2022/vid-dis-558130af-d1e0-46a4-8aa2-e350618054d5_4_HD2022_nodrm_22669959-0914-43f1-b099-bd9f8922f5b1.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S02E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5fdd4c9f-ad15-46e0-84e7-2a6a3a544b68_5_HD2022/vid-dis-5fdd4c9f-ad15-46e0-84e7-2a6a3a544b68_5_HD2022_nodrm_9c32d0e7-4196-4901-b72b-7f2d43dcf088.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9376a905-1410-4270-8963-7d310e17210c_5_HD2022/vid-dis-9376a905-1410-4270-8963-7d310e17210c_5_HD2022_nodrm_1fc0aed0-7671-49d8-9540-a9b1bed7b90e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-2ddd9749-114c-4a2e-a583-eb59ca450108_5_HD2022/vid-dis-2ddd9749-114c-4a2e-a583-eb59ca450108_5_HD2022_nodrm_6afa6073-bc83-4d07-b40f-81286f9c38bc.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-98c9aea1-f6c0-411d-b452-8b2331317b86_7_HD2022/vid-dis-98c9aea1-f6c0-411d-b452-8b2331317b86_7_HD2022_nodrm_bcdcc03b-fe43-4fb6-9617-4755cf3f2583.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-95614ce4-4500-4320-b372-db9df186142f_6_HD2022/vid-dis-95614ce4-4500-4320-b372-db9df186142f_6_HD2022_nodrm_32b21354-83ef-4337-b8f5-187e4f5389cf.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ff4dd126-17b8-4fb8-ace3-cb527d173f24_4_HD2022/vid-dis-ff4dd126-17b8-4fb8-ace3-cb527d173f24_4_HD2022_nodrm_c6701959-f5f3-4bd6-b625-fdd4af0ae427.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-0d702426-914a-4232-89a7-723181d84923_5_HD2022/vid-dis-0d702426-914a-4232-89a7-723181d84923_5_HD2022_nodrm_e9c8bdd7-e94e-4fd5-9312-18ba83d0dc52.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b2de0e04-99ec-4b35-a8bd-eee9b8286193_5_HD2022/vid-dis-b2de0e04-99ec-4b35-a8bd-eee9b8286193_5_HD2022_nodrm_568d6200-78f7-4692-b96c-caafd1c9ac1c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-17fe986c-0fa9-499a-b757-b36296598115_5_HD2022/vid-dis-17fe986c-0fa9-499a-b757-b36296598115_5_HD2022_nodrm_89016157-cd5c-44d2-a37b-a508f3a20086.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-2a422f26-37d3-41f0-bc11-9b8b8302567c_5_HD2022/vid-dis-2a422f26-37d3-41f0-bc11-9b8b8302567c_5_HD2022_nodrm_9e889cae-6f65-4e50-a86f-e1c108338e47.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c47b01bf-3186-42e4-ab4c-33382d222881_5_HD2022/vid-dis-c47b01bf-3186-42e4-ab4c-33382d222881_5_HD2022_nodrm_b5abe168-295a-48a3-84d5-a508146e4c9b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-67cf9cce-2662-462d-a883-17a395676f2a_4_HD2022/vid-dis-67cf9cce-2662-462d-a883-17a395676f2a_4_HD2022_nodrm_f2bf5565-0aba-4dc1-92cf-f9d6ad0ef7cb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e09fd050-1e90-483c-9b4a-4429321195df_5_HD2022/vid-dis-e09fd050-1e90-483c-9b4a-4429321195df_5_HD2022_nodrm_144b6f94-273f-4dad-a224-0e3fe3d6e40b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S03E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-150f6fda-6346-4ce0-9fbf-950dffa20421_4_HD2022/vid-dis-150f6fda-6346-4ce0-9fbf-950dffa20421_4_HD2022_nodrm_57dc78a3-838b-4502-b78a-b9da0c43d2c3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-47a61837-7969-48f8-8c80-f2d89cdea0b4_4_HD2022/vid-dis-47a61837-7969-48f8-8c80-f2d89cdea0b4_4_HD2022_nodrm_11f186b9-c52f-4cc8-8ced-cd911a43c36f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9c6f95e2-08c9-4b4d-a0c2-7ea4a40dee29_4_HD2022/vid-dis-9c6f95e2-08c9-4b4d-a0c2-7ea4a40dee29_4_HD2022_nodrm_87643115-05b8-413c-bb8e-a69fd8d777b9.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-20ebd7a8-220e-4431-9603-4c3692b0a405_4_HD2022/vid-dis-20ebd7a8-220e-4431-9603-4c3692b0a405_4_HD2022_nodrm_922a609d-7599-4835-8e89-8d06f121e69b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e2c36339-e6c9-4671-a433-a15e07020b0f_4_HD2022/vid-dis-e2c36339-e6c9-4671-a433-a15e07020b0f_4_HD2022_nodrm_32713745-e34d-452a-a73f-48977e2cee93.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ebfe47df-7c97-4890-ad2c-32b2e57e17ae_7_HD2022/vid-dis-ebfe47df-7c97-4890-ad2c-32b2e57e17ae_7_HD2022_nodrm_74a06f50-b328-41de-b324-366489d6c1cc.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4ad45ba2-2451-4ae1-a89d-397f97d66626_4_HD2022/vid-dis-4ad45ba2-2451-4ae1-a89d-397f97d66626_4_HD2022_nodrm_dc09c067-8e1b-4653-9812-14ad6c5adaed.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6a854065-5c41-45f1-9acd-12303f579a41_5_HD2022/vid-dis-6a854065-5c41-45f1-9acd-12303f579a41_5_HD2022_nodrm_fe35db7a-7557-4d1e-8999-33c68e24963e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-81e9ed24-380c-4db4-92f5-a0be7599a5ca-CDN_3_HD2022/vid-81e9ed24-380c-4db4-92f5-a0be7599a5ca-CDN_3_HD2022_nodrm_d9fc44b1-d9c0-4c5e-a40e-3c5d9679dabb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cb2aaa1f-e658-4bb0-8172-82e3823791ad_5_HD2022/vid-dis-cb2aaa1f-e658-4bb0-8172-82e3823791ad_5_HD2022_nodrm_fda8aec3-f29a-4e0a-9bcf-5d7d23c11b6b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cad82bc6-df21-4add-a9f2-eabd2bdaa1b4_4_HD2022/vid-dis-cad82bc6-df21-4add-a9f2-eabd2bdaa1b4_4_HD2022_nodrm_2382aa3c-b4d3-41be-8565-355d9c85988b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-fc28267e-71f6-42c9-a7fe-2f18a9275630-CDN_4_HD2022/vid-fc28267e-71f6-42c9-a7fe-2f18a9275630-CDN_4_HD2022_nodrm_d2629557-6be7-4f56-8d4c-3d2c99ffa80f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S04E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-586a5b5e-7317-450b-afa4-02bb3d61195e_4_HD2022/vid-dis-586a5b5e-7317-450b-afa4-02bb3d61195e_4_HD2022_nodrm_18ffab92-7c4c-40c0-9b92-62a03098ea4a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4ef06e74-20c2-4317-86f6-70ca477782c4_5_HD2022/vid-dis-4ef06e74-20c2-4317-86f6-70ca477782c4_5_HD2022_nodrm_4db72d7e-b056-4cfa-b655-fe2177aedf79.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e5b65971-6a63-4daf-adef-b4a87d6fea37_5_HD2022/vid-dis-e5b65971-6a63-4daf-adef-b4a87d6fea37_5_HD2022_nodrm_4266830c-2cf8-4d8a-b64a-58b43eeff664.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-eca8f5a6-ebf2-4e7c-a14a-846e3ea222d2_5_HD2022/vid-dis-eca8f5a6-ebf2-4e7c-a14a-846e3ea222d2_5_HD2022_nodrm_1cd3f61f-45f3-47f2-9b15-0c2b4da63420.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3f35e1dc-5a3d-4336-8a8f-2f069f696b01_5_HD2022/vid-dis-3f35e1dc-5a3d-4336-8a8f-2f069f696b01_5_HD2022_nodrm_22a019ff-25b5-4343-a6bc-f1d70269375a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a5b91ed1-d0fc-4e91-a4b2-fbd6c91780ef_6_HD2022/vid-dis-a5b91ed1-d0fc-4e91-a4b2-fbd6c91780ef_6_HD2022_nodrm_5aa91d1f-0ca0-4477-a2d6-6cf34c75bdb3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-8feb5aac-75c0-4fe3-b859-ca1c73912727_5_HD2022/vid-dis-8feb5aac-75c0-4fe3-b859-ca1c73912727_5_HD2022_nodrm_6eae4be2-9889-4afb-9970-ef117ffea891.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c4a2fac0-0bf2-432f-acd0-a530a5597b78_5_HD2022/vid-dis-c4a2fac0-0bf2-432f-acd0-a530a5597b78_5_HD2022_nodrm_b9207031-95d3-4113-aaff-06816cc4ca73.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c947421b-b056-4f8c-9b08-9e9bb74305d3_5_HD2022/vid-dis-c947421b-b056-4f8c-9b08-9e9bb74305d3_5_HD2022_nodrm_d7a6ca46-d895-4f00-a405-072e6bde54af.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-2d2d3338-2f95-4637-ba0d-637aa7bff689_8_HD2022/vid-dis-2d2d3338-2f95-4637-ba0d-637aa7bff689_8_HD2022_nodrm_a973e228-7ef9-4b01-8c57-e01cac21ef35.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-29e8366b-c1f4-4b01-b102-ffd87754daa5_5_HD2022/vid-dis-29e8366b-c1f4-4b01-b102-ffd87754daa5_5_HD2022_nodrm_3564100e-66ef-4e7d-955f-887423cf0f03.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6016850d-2833-40a2-a138-48a9bb85c63d_7_HD2022/vid-dis-6016850d-2833-40a2-a138-48a9bb85c63d_7_HD2022_nodrm_08adbc95-6133-463c-997f-53bb660a2442.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-069f539e-9023-4223-815b-2e8284fa097f_6_HD2022/vid-dis-069f539e-9023-4223-815b-2e8284fa097f_6_HD2022_nodrm_cf58e0f1-e553-46ea-b6ba-5572b1d8a83b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S05E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e9d64e2a-d689-48a7-bf50-82ee81955674_5_HD2022/vid-dis-e9d64e2a-d689-48a7-bf50-82ee81955674_5_HD2022_nodrm_854eac7e-7482-4ae6-a6d4-afcc59e7dac3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ecd5a7a4-61a4-468e-96cc-785b56da6493_6_HD2022/vid-dis-ecd5a7a4-61a4-468e-96cc-785b56da6493_6_HD2022_nodrm_bf0f3c1d-9798-4b48-a8f7-7129603c762a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6c9a729a-14a3-47aa-912f-cba2025234c7_6_HD2022/vid-dis-6c9a729a-14a3-47aa-912f-cba2025234c7_6_HD2022_nodrm_9e993275-c94b-45d4-803b-de7f72dccb45.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6571a06c-91fa-4764-9b99-f501fc1aa60a_7_HD2022/vid-dis-6571a06c-91fa-4764-9b99-f501fc1aa60a_7_HD2022_nodrm_639272d5-3ac7-439f-aac4-7e723db4c508.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-06bba266-2b33-4763-80e2-ea701cbbee84_4_HD2022/vid-dis-06bba266-2b33-4763-80e2-ea701cbbee84_4_HD2022_nodrm_3a7849b8-5639-405d-a214-3a03af29665b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f64f80f6-b1af-469c-9cd8-3448361a90cc_10_HD2022/vid-dis-f64f80f6-b1af-469c-9cd8-3448361a90cc_10_HD2022_nodrm_7f753a5f-fadd-43ca-ad06-280f8513d50b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b0476c32-0c10-495f-96a9-53a0d41fb70e_8_HD2022/vid-dis-b0476c32-0c10-495f-96a9-53a0d41fb70e_8_HD2022_nodrm_6650c83b-4d9d-46d4-92c9-4af6f9e4c1f6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1c2aea3f-6cd2-40ce-a23b-9cc3f8ed1606_9_HD2022/vid-dis-1c2aea3f-6cd2-40ce-a23b-9cc3f8ed1606_9_HD2022_nodrm_8a98d926-1c24-491d-a014-94daef677f3f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fefddc20-1794-442e-b8bf-6737ce644487_4_HD2022/vid-dis-fefddc20-1794-442e-b8bf-6737ce644487_4_HD2022_nodrm_7461c293-d91a-4783-9d08-70968e8911c7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3f177450-75fd-4576-833c-a8b93fa91e61_6_HD2022/vid-dis-3f177450-75fd-4576-833c-a8b93fa91e61_6_HD2022_nodrm_1f8a52c9-5626-4283-9cf2-0ab86f001cc5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d9941591-3714-4feb-9ef0-d24f4803d0b0_9_HD2022/vid-dis-d9941591-3714-4feb-9ef0-d24f4803d0b0_9_HD2022_nodrm_b511fd80-616e-49e4-8247-34af9e8632f0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d3201b6c-d77c-4859-97c2-d1f624b43deb_7_HD2022/vid-dis-d3201b6c-d77c-4859-97c2-d1f624b43deb_7_HD2022_nodrm_4ba6a6a6-706e-4601-be6d-e8f03ad49651.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4e0034df-1b9b-4b52-b484-be04dadee228_7_HD2022/vid-dis-4e0034df-1b9b-4b52-b484-be04dadee228_7_HD2022_nodrm_93260435-3296-49d1-a3e1-325b9e1ce363.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S06E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9fdf2035-8c10-41bb-8448-2576bee73790_8_HD2022/vid-dis-9fdf2035-8c10-41bb-8448-2576bee73790_8_HD2022_nodrm_49d79002-a999-45e9-abad-340536d41561.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-2c6e584b-54b8-4bcc-9fca-914c82daceef_9_HD2022/vid-dis-2c6e584b-54b8-4bcc-9fca-914c82daceef_9_HD2022_nodrm_eca7e3ae-98cf-4471-8e2b-86d7fd972114.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-0380b8a3-af85-4356-a225-c69a0fafc80e_6_HD2022/vid-dis-0380b8a3-af85-4356-a225-c69a0fafc80e_6_HD2022_nodrm_e4da1981-7fb2-4900-90fe-650a30bb2061.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b2ac39a3-1b6a-4d88-9da8-9ce59e59636d_7_HD2022/vid-dis-b2ac39a3-1b6a-4d88-9da8-9ce59e59636d_7_HD2022_nodrm_1d43844d-b25b-47fe-80a9-13197278162f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-7d7733df-6694-4798-ad6e-7caa8d005e72_6_HD2022/vid-dis-7d7733df-6694-4798-ad6e-7caa8d005e72_6_HD2022_nodrm_2ff60e8e-ccf2-45bf-b2b7-4824c8094e1c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4ce11784-e092-42de-847a-e91bc183e84a_7_HD2022/vid-dis-4ce11784-e092-42de-847a-e91bc183e84a_7_HD2022_nodrm_0cc6c75a-4fcd-4e30-ba81-558671bb75f6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-0d5eb6d0-f88a-481f-beb9-e2e4c4710560_6_HD2022/vid-dis-0d5eb6d0-f88a-481f-beb9-e2e4c4710560_6_HD2022_nodrm_f25871e1-5b69-4817-904d-a9a286ea71b2.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-abbb1890-4eb3-44c5-9740-fa4f49abc005_7_HD2022/vid-dis-abbb1890-4eb3-44c5-9740-fa4f49abc005_7_HD2022_nodrm_5ac2e8f6-85bb-4d79-91c1-9284cfb21de7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5fb058e9-206a-40e5-8f6c-33d36238a565_6_HD2022/vid-dis-5fb058e9-206a-40e5-8f6c-33d36238a565_6_HD2022_nodrm_8461d510-4cb5-4700-a04d-11a6b05abbc3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-486fc44a-e058-4f95-a89b-749b28ea672a_7_HD2022/vid-dis-486fc44a-e058-4f95-a89b-749b28ea672a_7_HD2022_nodrm_a99f8615-c7f5-42c1-a7be-bfba86f60641.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a6bbf168-5581-401e-9fbc-e08f57cc6430_6_HD2022/vid-dis-a6bbf168-5581-401e-9fbc-e08f57cc6430_6_HD2022_nodrm_1b751c81-ab0d-4b06-8ff4-32105c87a3f3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-418daccf-f020-4876-82a9-78369ab4a53c_6_HD2022/vid-dis-418daccf-f020-4876-82a9-78369ab4a53c_6_HD2022_nodrm_0c9bfe3e-bc00-4e7a-b81b-717a503db2a5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-aba30377-2eaf-416b-aa76-7a0c2e3b8e03_6_HD2022/vid-dis-aba30377-2eaf-416b-aa76-7a0c2e3b8e03_6_HD2022_nodrm_e166c97d-4ee0-4f59-9b82-6b3dc6516bb4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S07E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3b1b5b53-90c8-4a34-9690-0c95c9fa1632_7_HD2022/vid-dis-3b1b5b53-90c8-4a34-9690-0c95c9fa1632_7_HD2022_nodrm_03fdbb31-77a9-49b6-ac6e-aea0cc305bb5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-65666cac-7f32-42a0-8988-fe1039ec1ab6_7_HD2022/vid-dis-65666cac-7f32-42a0-8988-fe1039ec1ab6_7_HD2022_nodrm_dcf0a955-a314-404f-a728-e491c2a6cd9a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cf20a5b4-dbe4-4454-932f-926e794cc4a4_7_HD2022/vid-dis-cf20a5b4-dbe4-4454-932f-926e794cc4a4_7_HD2022_nodrm_a11d3730-7433-4c16-a327-3d28ffc8cecb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1a1b39a4-55d0-4508-87ea-ded558cf555e_8_HD2022/vid-dis-1a1b39a4-55d0-4508-87ea-ded558cf555e_8_HD2022_nodrm_2b97f3c2-57fe-4562-9510-3bc365900e0e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-14abe6f2-7d1f-4551-a61f-2e4ae6c98a2a_7_HD2022/vid-dis-14abe6f2-7d1f-4551-a61f-2e4ae6c98a2a_7_HD2022_nodrm_73e061d6-c6c9-4ff2-a6bc-aa19391c366c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9dd2d952-abaf-4711-9a91-02ca39c91199_8_HD2022/vid-dis-9dd2d952-abaf-4711-9a91-02ca39c91199_8_HD2022_nodrm_719b97ec-06bd-47a5-8f05-1654b8901b3c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e04dc593-c52a-4ab2-81e7-a6586d829190_8_HD2022/vid-dis-e04dc593-c52a-4ab2-81e7-a6586d829190_8_HD2022_nodrm_09c20482-81b3-475b-96dd-61684280feca.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%2
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-2b073e43-ba0c-4637-bfdd-e4d804b2a40d_9_HD2022/vid-dis-2b073e43-ba0c-4637-bfdd-e4d804b2a40d_9_HD2022_nodrm_44fa99f5-e405-4b34-9728-2c1c89522382.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-bc1e946a-8648-4a16-ba7a-9601f4d7d566_6_HD2022/vid-dis-bc1e946a-8648-4a16-ba7a-9601f4d7d566_6_HD2022_nodrm_22f08491-e527-4f46-9b58-0db60a2a5cee.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1277a5d8-9917-48d7-9799-713353ba85cd_7_HD2022/vid-dis-1277a5d8-9917-48d7-9799-713353ba85cd_7_HD2022_nodrm_5c378ef6-c3db-4712-a2fd-4b3174de890d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-294ae1f4-050b-4c2c-98b5-ed62cef4bd28_6_HD2022/vid-dis-294ae1f4-050b-4c2c-98b5-ed62cef4bd28_6_HD2022_nodrm_95f96bb3-02fb-466f-86ea-214137c1f135.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9271cc9d-c6bb-485e-9ebb-fd7798f97858_8_HD2022/vid-dis-9271cc9d-c6bb-485e-9ebb-fd7798f97858_8_HD2022_nodrm_5a21c398-5496-4372-a614-63d13f9e44df.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3e540c61-31a5-4626-9636-c8e56b4a9044_6_HD2022/vid-dis-3e540c61-31a5-4626-9636-c8e56b4a9044_6_HD2022_nodrm_ddded6d4-9402-4801-9cd0-4958d3cd9133.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S08E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4962ee2c-073d-45aa-a080-8e8486664477_7_HD2022/vid-dis-4962ee2c-073d-45aa-a080-8e8486664477_7_HD2022_nodrm_03214738-c411-4342-8acf-052aebd8cf01.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-358480ca-0445-4857-a182-fa107c85414a_7_HD2022/vid-dis-358480ca-0445-4857-a182-fa107c85414a_7_HD2022_nodrm_236c9d8d-f31e-4720-9c72-2b5fa8bb9fa1.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5d35a13e-3edd-42b5-8d74-edc5b27296d4_8_HD2022/vid-dis-5d35a13e-3edd-42b5-8d74-edc5b27296d4_8_HD2022_nodrm_58404e19-a2af-4a78-ab85-473ef75d7d1e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1b1c13fa-deb9-449c-9810-4a2c1afa7ee9_5_HD2022/vid-dis-1b1c13fa-deb9-449c-9810-4a2c1afa7ee9_5_HD2022_nodrm_fc541ead-5a59-47e9-a7fb-430fb5b221b1.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d40f0b9a-78fe-4d99-bd15-dee28f9e62ee_5_HD2022/vid-dis-d40f0b9a-78fe-4d99-bd15-dee28f9e62ee_5_HD2022_nodrm_cf1cb33f-bc2b-415a-bdbf-a9d9fd7ff2ef.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cd4be4c6-5e35-4a13-847b-55e2f3dcc069_5_HD2022/vid-dis-cd4be4c6-5e35-4a13-847b-55e2f3dcc069_5_HD2022_nodrm_637acf71-5bf0-472f-8c4e-4c4326ef179e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-806227ce-0bad-48ac-a652-de06dc22b2c8_5_HD2022/vid-dis-806227ce-0bad-48ac-a652-de06dc22b2c8_5_HD2022_nodrm_755b8448-f621-4b05-b148-5931d64b115e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e609ee1f-72c3-4d00-a6cb-e8e0454f6e1d_4_HD2022/vid-dis-e609ee1f-72c3-4d00-a6cb-e8e0454f6e1d_4_HD2022_nodrm_e0ba7a30-5b36-4db6-b5be-94e3181cbad5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c7aa3285-634b-4c75-a337-d2862de64a7b_4_HD2022/vid-dis-c7aa3285-634b-4c75-a337-d2862de64a7b_4_HD2022_nodrm_8fd5b627-1c76-4cf8-9af5-ab25e45da2a4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fd5d9b0b-43c2-4208-8136-7ba4b4292769_4_HD2022/vid-dis-fd5d9b0b-43c2-4208-8136-7ba4b4292769_4_HD2022_nodrm_c19f0973-7649-4049-b122-e74532001f7c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-057fc764-57b3-4815-826b-4e856a1b0e54_4_HD2022/vid-dis-057fc764-57b3-4815-826b-4e856a1b0e54_4_HD2022_nodrm_11e4d113-012a-4755-a671-da9396a49edb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-8967751e-26cd-4461-b785-fcb8aeb8cf59_4_HD2022/vid-dis-8967751e-26cd-4461-b785-fcb8aeb8cf59_4_HD2022_nodrm_a270215e-bdd3-4074-b892-f4e8b1f2b48e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-38d30ba0-c20c-48c3-83a0-d79a9b6c4862_6_HD2022/vid-dis-38d30ba0-c20c-48c3-83a0-d79a9b6c4862_6_HD2022_nodrm_d0d029a6-f11e-4147-a39a-a4fd2fcf5447.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S09E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c4eb1369-3586-4d0f-ae2d-d109b69638b3_5_HD2022/vid-dis-c4eb1369-3586-4d0f-ae2d-d109b69638b3_5_HD2022_nodrm_c3f38b1e-0d0a-446b-91bd-e6bddcf3c494.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a97ae5e0-71f7-4ac5-be75-79f50a66882d_5_HD2022/vid-dis-a97ae5e0-71f7-4ac5-be75-79f50a66882d_5_HD2022_nodrm_82050f0a-62ff-4949-a501-e9ebfe827ae4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-7cec3f99-7220-40af-8b7a-6b9074453e98_5_HD2022/vid-dis-7cec3f99-7220-40af-8b7a-6b9074453e98_5_HD2022_nodrm_12702b33-15d6-4426-8ca6-ec3fc7c6ce76.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b3f72d6a-2b6e-4b1d-a0cf-e794638b42b7_7_HD2022/vid-dis-b3f72d6a-2b6e-4b1d-a0cf-e794638b42b7_7_HD2022_nodrm_364fa390-9518-469b-91ed-27da3bbcbc72.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-404e984f-ce62-4b81-a7f5-b9b503165b42_7_HD2022/vid-dis-404e984f-ce62-4b81-a7f5-b9b503165b42_7_HD2022_nodrm_8c125915-dd0f-481d-8741-a3a29f71364c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3201f7bd-9de7-4a77-917d-9b9a5467ad93_5_HD2022/vid-dis-3201f7bd-9de7-4a77-917d-9b9a5467ad93_5_HD2022_nodrm_f9a53b4c-209f-421c-98d0-562048e7ef30.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-68f72fef-00f3-484f-9bc3-9c9548147396_8_HD2022/vid-dis-68f72fef-00f3-484f-9bc3-9c9548147396_8_HD2022_nodrm_b5990c34-8ff8-4841-9506-84dfbe5fff3a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-920440b1-4214-4a86-89b5-7ac3a84809ff_8_HD2022/vid-dis-920440b1-4214-4a86-89b5-7ac3a84809ff_8_HD2022_nodrm_119d3297-7665-4447-889a-602f7f4471f0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-29878b17-2097-40ed-8810-a5e45f290472_5_HD2022/vid-dis-29878b17-2097-40ed-8810-a5e45f290472_5_HD2022_nodrm_72760e82-a4bd-4030-9824-269b7d0511d9.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-8929adab-a1c9-4d61-b7d0-84315555c465_4_HD2022/vid-dis-8929adab-a1c9-4d61-b7d0-84315555c465_4_HD2022_nodrm_0ff42970-f111-4499-8244-f010f3ebdaa5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-eb7674d1-3f24-47df-beb1-5a10e3e8d925_7_HD2022/vid-dis-eb7674d1-3f24-47df-beb1-5a10e3e8d925_7_HD2022_nodrm_a8b17689-4336-4c2f-8ec9-710699f4ebb5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-20559f19-ede0-4223-988b-cdb6ae4dac56_7_HD2022/vid-dis-20559f19-ede0-4223-988b-cdb6ae4dac56_7_HD2022_nodrm_0ca40b28-969e-451d-9a0e-db30bdbc78ed.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b7dc4189-ef96-4754-a238-e9b97b734b35_6_HD2022/vid-dis-b7dc4189-ef96-4754-a238-e9b97b734b35_6_HD2022_nodrm_36d23ef4-8796-42b9-ab94-8bafc5cac3e1.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S10E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fb18d377-532d-476e-bb9f-69a2f9be39a1_6_HD2022/vid-dis-fb18d377-532d-476e-bb9f-69a2f9be39a1_6_HD2022_nodrm_600fc461-08d7-435f-a772-51ebec96d2c8.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f79b5f36-1473-4707-abe9-767db853a173_5_HD2022/vid-dis-f79b5f36-1473-4707-abe9-767db853a173_5_HD2022_nodrm_0a8cf705-58d3-4932-b7bb-5392d631338f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cb451ce2-55ec-43e5-84a1-92b400ae6d38_5_HD2022/vid-dis-cb451ce2-55ec-43e5-84a1-92b400ae6d38_5_HD2022_nodrm_a8018ca1-d0c3-472a-ba4a-93ccb678d4b6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-dd484cfd-fbc7-4004-a1cd-d3bf591ae057_7_HD2022/vid-dis-dd484cfd-fbc7-4004-a1cd-d3bf591ae057_7_HD2022_nodrm_bced2dab-9edc-4b86-b517-3a2a412bf30a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b8510827-53b9-46e1-8ee7-08a75d76c9f8_5_HD2022/vid-dis-b8510827-53b9-46e1-8ee7-08a75d76c9f8_5_HD2022_nodrm_cb6e3f04-f655-4d20-bac1-64163012bda6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cacd2c1b-8042-4f2f-80e6-07852e612142_5_HD2022/vid-dis-cacd2c1b-8042-4f2f-80e6-07852e612142_5_HD2022_nodrm_d7e1558e-fb79-43f1-be6c-989c839770c4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-35bf8fe5-7edd-400e-8ee8-48ad74a75ea7_8_HD2022/vid-dis-35bf8fe5-7edd-400e-8ee8-48ad74a75ea7_8_HD2022_nodrm_d769fd08-30d4-48b6-aa6f-e44caadd3373.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-ffaebe96-95d9-4122-9a8a-056df8877cb8_8_HD2022/vid-dis-ffaebe96-95d9-4122-9a8a-056df8877cb8_8_HD2022_nodrm_fcd1f441-ede8-4f5d-8e46-bc7635532828.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d8b122e9-1f1c-49c3-b9e1-47b21dd83c98_6_HD2022/vid-dis-d8b122e9-1f1c-49c3-b9e1-47b21dd83c98_6_HD2022_nodrm_ff6a7010-35a8-4b5c-aa19-4d4cae0f0424.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1de3e99f-e5d3-4ca0-a7a4-6c6639d1a1ba_6_HD2022/vid-dis-1de3e99f-e5d3-4ca0-a7a4-6c6639d1a1ba_6_HD2022_nodrm_399253a6-e873-4394-83e9-75adfe382b59.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-bc5d5578-c1da-4cbc-8d97-fc3ddbea7ab2_5_HD2022/vid-dis-bc5d5578-c1da-4cbc-8d97-fc3ddbea7ab2_5_HD2022_nodrm_d33f9465-8aad-4d28-b16a-5db0fe55a2ef.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-89c1a52c-e508-4686-bb16-263ee213a59f_7_HD2022/vid-dis-89c1a52c-e508-4686-bb16-263ee213a59f_7_HD2022_nodrm_cb1fb25d-06cb-4559-b3d9-55a8558443cd.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-421b32b0-759a-4801-aaed-108d68d7e33c_7_HD2022/vid-dis-421b32b0-759a-4801-aaed-108d68d7e33c_7_HD2022_nodrm_dd833714-b8c9-4d25-a9d4-0462423433a4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S11E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-1bafe939-a27a-4de6-947f-cc7b16d04692_9_HD2022/vid-dis-1bafe939-a27a-4de6-947f-cc7b16d04692_9_HD2022_nodrm_f19962d9-5929-4815-bea0-ed153fcd8b38.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-683359ee-d4f8-4683-be1f-6976a7571f11_6_HD2022/vid-dis-683359ee-d4f8-4683-be1f-6976a7571f11_6_HD2022_nodrm_3fbae57f-5141-4968-bcb6-b180025ac42e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-763ac11e-26b5-46f2-93ad-6a9e63ac3436_6_HD2022/vid-dis-763ac11e-26b5-46f2-93ad-6a9e63ac3436_6_HD2022_nodrm_23f503cc-dabf-4fed-830c-0569e014d806.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6ac20ab4-4ece-4809-8fbc-9521a3e83526_7_HD2022/vid-dis-6ac20ab4-4ece-4809-8fbc-9521a3e83526_7_HD2022_nodrm_8b802bd0-e3f9-4d0c-9f8f-003e56adbeb3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-322b79ca-e8b1-4bba-bc6c-e26dc0f80d30_10_HD2022/vid-dis-322b79ca-e8b1-4bba-bc6c-e26dc0f80d30_10_HD2022_nodrm_5e576a9e-889b-4c82-92f0-a8b473a95f62.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cc36efe7-627f-4cfa-8494-804cfe9043bd_6_HD2022/vid-dis-cc36efe7-627f-4cfa-8494-804cfe9043bd_6_HD2022_nodrm_5fbd5db7-cd8d-458f-93f1-f58aff43780f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-dd26ee86-0fdf-46f0-8be0-4ff003c746f2_5_HD2022/vid-dis-dd26ee86-0fdf-46f0-8be0-4ff003c746f2_5_HD2022_nodrm_efcd8c77-c51e-4ac6-a5fa-36619f4eadda.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4a595092-ad5b-4acc-8544-b32196ef4181_6_HD2022/vid-dis-4a595092-ad5b-4acc-8544-b32196ef4181_6_HD2022_nodrm_2b53dca0-9fe5-4b56-a711-ab8382ea003f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6102d14c-14b0-4f75-9f64-4d7e56692a91_6_HD2022/vid-dis-6102d14c-14b0-4f75-9f64-4d7e56692a91_6_HD2022_nodrm_9994a80f-4e4b-4359-9819-842687cf9350.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a0ef9777-726e-4058-aab0-63e4ffd4bee1_6_HD2022/vid-dis-a0ef9777-726e-4058-aab0-63e4ffd4bee1_6_HD2022_nodrm_59109123-921a-431a-b734-f96e053ec422.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-47244163-f9dc-45cf-b7c8-178873658403_8_HD2022/vid-dis-47244163-f9dc-45cf-b7c8-178873658403_8_HD2022_nodrm_1e935ab3-e6f5-4731-827a-d5584fc40539.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-0474f3a5-97f9-4cee-8e92-1302c9516e14_5_HD2022/vid-dis-0474f3a5-97f9-4cee-8e92-1302c9516e14_5_HD2022_nodrm_a0ed1144-9231-426c-9720-6a791893ec10.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S12E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-eaf334f9-3e7c-43b7-b407-b596901cf353_5_HD2022/vid-dis-eaf334f9-3e7c-43b7-b407-b596901cf353_5_HD2022_nodrm_e5aec6a9-f5d4-490d-b94b-83a2ea600786.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-29cb57f6-0c7d-4b72-b070-089d714442af_7_HD2022/vid-dis-29cb57f6-0c7d-4b72-b070-089d714442af_7_HD2022_nodrm_ce8c34ae-a7e4-465d-9b05-31d3f7ff31a7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-87455367-94c6-4883-8fb8-b1bbb0de5e90_7_HD2022/vid-dis-87455367-94c6-4883-8fb8-b1bbb0de5e90_7_HD2022_nodrm_b9634414-7984-4ebf-9cf5-f9060a0fd722.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e34bd7c6-250b-464a-8e06-d8ec1531d2d9_6_HD2022/vid-dis-e34bd7c6-250b-464a-8e06-d8ec1531d2d9_6_HD2022_nodrm_7007b41c-dea4-468e-bc57-0b740c268e67.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-71930540-957a-4ffe-ab38-2980f6854ed0_6_HD2022/vid-dis-71930540-957a-4ffe-ab38-2980f6854ed0_6_HD2022_nodrm_031a30aa-b157-41cf-8d80-276754329b1a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-12982384-f6e6-4106-9982-f27052d43a2f_6_HD2022/vid-dis-12982384-f6e6-4106-9982-f27052d43a2f_6_HD2022_nodrm_37a03d93-c0dd-4b53-824e-c310b57c75ed.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-07b5477a-3a21-41b2-9988-5d239656714d_7_HD2022/vid-dis-07b5477a-3a21-41b2-9988-5d239656714d_7_HD2022_nodrm_52bb9f7d-a153-47d2-8c5c-58ae66ee7189.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-219463e2-3e99-431d-a6bc-a196fee93dfa_7_HD2022/vid-dis-219463e2-3e99-431d-a6bc-a196fee93dfa_7_HD2022_nodrm_04cd5314-921d-44d6-9d66-ee06da571e66.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-cdb96c5b-b769-4730-a7af-c2b0cfd8c36d_7_HD2022/vid-dis-cdb96c5b-b769-4730-a7af-c2b0cfd8c36d_7_HD2022_nodrm_0dbef8eb-6721-4c18-aecf-35b90906867e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a366dfef-11df-49fc-9b98-9a53869b5544_8_HD2022/vid-dis-a366dfef-11df-49fc-9b98-9a53869b5544_8_HD2022_nodrm_144baf10-c707-4c6d-81e4-3b8a7e3b189f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3880a0d5-d27f-455e-9dde-c05f7c7664dd_10_HD2022/vid-dis-3880a0d5-d27f-455e-9dde-c05f7c7664dd_10_HD2022_nodrm_cc6d7bca-302d-4ca4-a94d-a77d8af2f5f3.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-54c95938-ea90-4520-8742-396c9f5ea3f4_8_HD2022/vid-dis-54c95938-ea90-4520-8742-396c9f5ea3f4_8_HD2022_nodrm_7dd44853-1001-4753-b7dc-33a2361217d5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S13E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-41116767-c62c-482b-a015-02ca86d763a9_6_HD2022/vid-dis-41116767-c62c-482b-a015-02ca86d763a9_6_HD2022_nodrm_be6fa49d-fb56-405e-8e90-3f982e110ad7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3edb8ab3-57a9-45db-b1f9-fa82fe6d579e_6_HD2022/vid-dis-3edb8ab3-57a9-45db-b1f9-fa82fe6d579e_6_HD2022_nodrm_642a911b-dcb0-4651-8601-e2a550264912.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-07ef18da-068c-4d5a-827c-c0f98dee98bf_8_HD2022/vid-dis-07ef18da-068c-4d5a-827c-c0f98dee98bf_8_HD2022_nodrm_59b7f6fc-84a1-47a8-8d71-c5565bc82a90.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-026770aa-814d-414f-abf3-5b660ef6168c_5_HD2022/vid-dis-026770aa-814d-414f-abf3-5b660ef6168c_5_HD2022_nodrm_70309be0-87d9-4903-9110-97c7d1410550.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-bbc5f437-490b-4670-91df-ab6b083f4d38_6_HD2022/vid-dis-bbc5f437-490b-4670-91df-ab6b083f4d38_6_HD2022_nodrm_499448ef-8a4d-4655-8ece-1d5182c706b8.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-177adf0c-eaf2-4ed2-8001-e55d2d23ca5a_6_HD2022/vid-dis-177adf0c-eaf2-4ed2-8001-e55d2d23ca5a_6_HD2022_nodrm_92e50c66-59da-4dee-a304-f607c4fc0519.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c1973c63-dcc6-4d35-a479-2ee0b2c3337d_6_HD2022/vid-dis-c1973c63-dcc6-4d35-a479-2ee0b2c3337d_6_HD2022_nodrm_4cb332f5-f161-4a5c-a752-eb2eecf47821.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5ff61616-1321-49b3-b36e-c54d867bfe9e_5_HD2022/vid-dis-5ff61616-1321-49b3-b36e-c54d867bfe9e_5_HD2022_nodrm_08c10b56-e26e-4bcc-92a5-033fe17983c8.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6163db2f-28ee-4a7d-8ec7-a04ca9d61b82_6_HD2022/vid-dis-6163db2f-28ee-4a7d-8ec7-a04ca9d61b82_6_HD2022_nodrm_eacd0615-b57c-4524-b7cb-be4415ddb9eb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3fe98ea0-52d4-4a5b-9fe1-5cd93e38eee3_6_HD2022/vid-dis-3fe98ea0-52d4-4a5b-9fe1-5cd93e38eee3_6_HD2022_nodrm_3f0d38c3-0f5a-4601-aaf9-f028e804ebe7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-7b7a9a05-6327-4146-8daa-5caeb17a148e_5_HD2022/vid-dis-7b7a9a05-6327-4146-8daa-5caeb17a148e_5_HD2022_nodrm_50001a57-20be-4c65-b38e-75528ce43ba5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e18bf8cb-fa2d-4f0d-bca0-6fdfe80dad51_5_HD2022/vid-dis-e18bf8cb-fa2d-4f0d-bca0-6fdfe80dad51_5_HD2022_nodrm_8eaff709-ce5b-422e-bc27-72e0ef84e30f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-07c7147b-734e-4faa-8980-30fece2d4a04_5_HD2022/vid-dis-07c7147b-734e-4faa-8980-30fece2d4a04_5_HD2022_nodrm_2bc2132a-dbaa-4cf6-bce7-524b4de8967d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S14E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f4b2566a-17a1-4e67-8b8e-a07059ee494c_5_HD2022/vid-dis-f4b2566a-17a1-4e67-8b8e-a07059ee494c_5_HD2022_nodrm_f385f378-8e82-4173-acad-b6e7b480e471.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5344fe27-3c82-4651-8eba-36a8a172fa55_5_HD2022/vid-dis-5344fe27-3c82-4651-8eba-36a8a172fa55_5_HD2022_nodrm_e034dfb5-9eb8-4ba7-b84e-359dbd61b7c7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-460b4d67-a10c-4eca-82bf-3ade1c15ccf1_5_HD2022/vid-dis-460b4d67-a10c-4eca-82bf-3ade1c15ccf1_5_HD2022_nodrm_f4bb727a-0638-4c3f-9722-747846969b10.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9620f8d5-d3c5-47a6-9f24-c5d9f6d04f12_7_HD2022/vid-dis-9620f8d5-d3c5-47a6-9f24-c5d9f6d04f12_7_HD2022_nodrm_a1616c97-ba1d-466b-acaf-f3a9d1ed04f0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9908e048-b787-45ce-909f-587883d45c7e_7_HD2022/vid-dis-9908e048-b787-45ce-909f-587883d45c7e_7_HD2022_nodrm_bb31900d-d4e7-4a54-b6d2-e9003fbcd2c4.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e3921c21-ab8c-4b7f-9c23-6f8e0a42aaca_6_HD2022/vid-dis-e3921c21-ab8c-4b7f-9c23-6f8e0a42aaca_6_HD2022_nodrm_307b21bc-d422-4a0f-90e4-d809db8ce024.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-621a9fd1-5f7e-44dd-9272-18253cae40cb_6_HD2022/vid-dis-621a9fd1-5f7e-44dd-9272-18253cae40cb_6_HD2022_nodrm_71dbf3b7-a3c7-42f4-a8e6-ac13cce8b6d6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-20930885-e383-491e-bce5-e8f7c7536a5e_6_HD2022/vid-dis-20930885-e383-491e-bce5-e8f7c7536a5e_6_HD2022_nodrm_a65ff3c2-c196-49d8-a9ed-37cf27d0c18d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-821622af-dbf3-40ff-ba23-da4603d6e083-CDN_5_HD2022/vid-821622af-dbf3-40ff-ba23-da4603d6e083-CDN_5_HD2022_nodrm_17968dad-d7e7-4600-8df3-8a4b2e6a3606.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-d703d43e-64db-4a82-8f61-c41cf9b55337_5_HD2022/vid-dis-d703d43e-64db-4a82-8f61-c41cf9b55337_5_HD2022_nodrm_f8549115-3b11-42fc-9582-35ae64bd349e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3cc62df5-dbd7-4216-accb-52df08d281b0_5_HD2022/vid-dis-3cc62df5-dbd7-4216-accb-52df08d281b0_5_HD2022_nodrm_f08826e2-93ed-4c7a-bc10-e70075397ccb.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fd0fb3c2-23c7-4a35-b739-979232a2adbe_5_HD2022/vid-dis-fd0fb3c2-23c7-4a35-b739-979232a2adbe_5_HD2022_nodrm_d430cadf-afee-423d-848e-b26a39ae5cab.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fe7722c5-d7e8-4fe5-ab18-026e1850f655_7_HD2022/vid-dis-fe7722c5-d7e8-4fe5-ab18-026e1850f655_7_HD2022_nodrm_7d3a1452-afc0-4c61-9666-0d7ac63108cc.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S15E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4cedd46b-93cf-4996-bdcb-2558855e742d_5_HD2022/vid-dis-4cedd46b-93cf-4996-bdcb-2558855e742d_5_HD2022_nodrm_3b2e7775-cf4a-468f-879a-ab87061b1ef2.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-56fb6080-593f-4266-8052-b5f69f7b28f6_5_HD2022/vid-dis-56fb6080-593f-4266-8052-b5f69f7b28f6_5_HD2022_nodrm_d5eb87b8-c4ee-4069-82c6-2e27b7c781f9.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-302dd3c7-94e2-4362-8f1e-95569b750636_5_HD2022/vid-dis-302dd3c7-94e2-4362-8f1e-95569b750636_5_HD2022_nodrm_f742d5c7-dbcc-46b7-907f-289c0590489d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5fddc0b7-c4d8-48eb-ae79-c1746d30ee2c_4_HD2022/vid-dis-5fddc0b7-c4d8-48eb-ae79-c1746d30ee2c_4_HD2022_nodrm_cd42edd5-f7d6-48e5-9df1-aea77f21dc88.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-965d2d4f-7922-4877-8981-bc7ec594090e_6_HD2022/vid-dis-965d2d4f-7922-4877-8981-bc7ec594090e_6_HD2022_nodrm_4611fff2-be5e-466a-ab96-30139efcbc2d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c23955cb-9757-4745-a0fd-bfc9afd68c70_4_HD2022/vid-dis-c23955cb-9757-4745-a0fd-bfc9afd68c70_4_HD2022_nodrm_3b219ba4-a1a0-45a7-9ab3-bef3d9bd30db.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4ba561f8-d765-4b00-95b2-81652dd8198a_6_HD2022/vid-dis-4ba561f8-d765-4b00-95b2-81652dd8198a_6_HD2022_nodrm_02e134ba-1ce7-47b1-b0d6-0b302f5a5204.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-c4afb5eb-66a5-4f01-a6ec-6a61ea47b575_5_HD2022/vid-dis-c4afb5eb-66a5-4f01-a6ec-6a61ea47b575_5_HD2022_nodrm_fcdec4c7-0bca-4926-a4e0-5f188c884a61.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-be81ace9-a38f-4f2d-97e2-1855776db286_4_HD2022/vid-dis-be81ace9-a38f-4f2d-97e2-1855776db286_4_HD2022_nodrm_1ec990de-f6a4-4c64-b268-9f5b4a6ae784.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6c51badc-16ea-437d-ba03-1bc937cd1c1f_4_HD2022/vid-dis-6c51badc-16ea-437d-ba03-1bc937cd1c1f_4_HD2022_nodrm_7b2c72ca-0e31-4ef4-ac06-8771b51d137d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4c74b364-4236-4c48-9624-34885c29d6a0_5_HD2022/vid-dis-4c74b364-4236-4c48-9624-34885c29d6a0_5_HD2022_nodrm_3af9c7f8-e22d-445d-8a8e-c383b43cb3c8.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e6af0e5f-7f79-4a5f-b071-7cc1e6bbdf77_4_HD2022/vid-dis-e6af0e5f-7f79-4a5f-b071-7cc1e6bbdf77_4_HD2022_nodrm_14b970f1-d6d7-44c3-bb72-b6b2c9034bad.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-4fe13b8c-23cd-4f0a-ace1-0fef66570a78_4_HD2022/vid-dis-4fe13b8c-23cd-4f0a-ace1-0fef66570a78_4_HD2022_nodrm_e9bc0472-7e6d-4a43-8ba1-7ddf3d095a36.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S16E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-6441f183-20e9-4ac1-a626-1d5891c163a3_4_HD2022/vid-dis-6441f183-20e9-4ac1-a626-1d5891c163a3_4_HD2022_nodrm_75b4f183-4656-453a-8e70-2e17b3715d6f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-30b2f755-2e06-4208-afd4-315af0a053e6_7_HD2022/vid-dis-30b2f755-2e06-4208-afd4-315af0a053e6_7_HD2022_nodrm_3c065e66-1d54-4bba-a276-ac37e04efc46.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-0b76a3c6-891d-45ce-bda2-d8e5d24d8a6b_6_HD2022/vid-dis-0b76a3c6-891d-45ce-bda2-d8e5d24d8a6b_6_HD2022_nodrm_cd3ff732-ab67-4bdf-82ea-0bf0da3b5e38.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-7ec8194f-9171-4db2-81f8-ca5df793c69a_5_HD2022/vid-dis-7ec8194f-9171-4db2-81f8-ca5df793c69a_5_HD2022_nodrm_b627cf80-9f6b-4cd7-802c-21db136bd76a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-e758aa22-b5ea-41e6-97c6-c73aeeab24fe_4_HD2022/vid-dis-e758aa22-b5ea-41e6-97c6-c73aeeab24fe_4_HD2022_nodrm_802d50d6-e30d-4aa9-8ce4-d809c92c551b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-74c8060c-fb34-4e38-94ef-10aadf37c4b5_5_HD2022/vid-dis-74c8060c-fb34-4e38-94ef-10aadf37c4b5_5_HD2022_nodrm_a71e9f3f-a121-4f24-b157-fe3b575591c7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-7e6d34c9-b3d7-4d11-b38b-46a221665c39_5_HD2022/vid-dis-7e6d34c9-b3d7-4d11-b38b-46a221665c39_5_HD2022_nodrm_4db1e05f-0abc-4e29-9e05-714c49b30448.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-762019bc-9333-4d2e-8cc3-cdddabbd8e55_4_HD2022/vid-dis-762019bc-9333-4d2e-8cc3-cdddabbd8e55_4_HD2022_nodrm_e0d7409b-f009-4161-8b40-801fa6b0a042.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-9b1daadc-d34c-47a7-ad7d-a1d03b80b153_6_HD2022/vid-dis-9b1daadc-d34c-47a7-ad7d-a1d03b80b153_6_HD2022_nodrm_ad3b937e-47c9-47ac-814c-8cdbb7ce8623.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-61695e56-276b-4245-8a9e-8aaaa0be1be4_5_HD2022/vid-dis-61695e56-276b-4245-8a9e-8aaaa0be1be4_5_HD2022_nodrm_fb7be926-a360-4baf-bb74-a0b12f3fccde.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-3be0d9a7-d62f-4d66-9a55-fa6ade7c71b7_4_HD2022/vid-dis-3be0d9a7-d62f-4d66-9a55-fa6ade7c71b7_4_HD2022_nodrm_2449c9fa-4778-4944-a8bf-fdbd6076bc56.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-047b9224-13d1-4aaf-a79d-3056f295e75d_5_HD2022/vid-dis-047b9224-13d1-4aaf-a79d-3056f295e75d_5_HD2022_nodrm_32ef1115-eb34-4fae-90c6-48a597026d24.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S17E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-36cfffa1-fcd2-4be3-82c8-042b82a52dd3_5_HD2022/vid-dis-36cfffa1-fcd2-4be3-82c8-042b82a52dd3_5_HD2022_nodrm_b37d4435-7b82-4275-9e65-799828d7d6e6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E01
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a92976a3-aaed-4cc8-b045-c9f90776f22c_5_HD2022/vid-dis-a92976a3-aaed-4cc8-b045-c9f90776f22c_5_HD2022_nodrm_8d60fe52-cd76-483c-afb2-b3bb2e541c90.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E02
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b669fbb2-9bdb-4dd9-a1f8-e513ca4a06e9_6_HD2022/vid-dis-b669fbb2-9bdb-4dd9-a1f8-e513ca4a06e9_6_HD2022_nodrm_2dbe0b54-d6d2-4e4e-ad53-17e243cd9958.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E03
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-258e889c-6947-4d55-aa65-5751fb8e90b9_5_HD2022/vid-dis-258e889c-6947-4d55-aa65-5751fb8e90b9_5_HD2022_nodrm_a21304aa-c450-4db3-bc8c-3899782c1f1e.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E04
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5e6e52f6-82e9-4608-b382-88a1a25876a6_5_HD2022/vid-dis-5e6e52f6-82e9-4608-b382-88a1a25876a6_5_HD2022_nodrm_61a8c383-7f6e-4e74-9e6c-749a8c69aa24.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E05
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-f11ece57-4fb0-4234-a077-77428de5e046_7_HD2022/vid-dis-f11ece57-4fb0-4234-a077-77428de5e046_7_HD2022_nodrm_6608e1e7-3b61-4b7d-88ff-b9c15701ab79.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E06
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-a2dafb4b-d2b4-46bd-821a-08b2a733104e_6_HD2022/vid-dis-a2dafb4b-d2b4-46bd-821a-08b2a733104e_6_HD2022_nodrm_6c0dc2c3-c000-48a0-ad1f-66bf553a0000.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E07
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-5a184ae0-dd45-4696-a119-facc7c55e14a_4_HD2024MF/vid-dis-5a184ae0-dd45-4696-a119-facc7c55e14a_4_HD2024MF_nodrm_2c4d55a2-b49a-40a4-9dd2-61e9d1150ef0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E08
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-56cbb417-c899-4a2d-8344-67288f0e4fc5_3_HD2022/vid-dis-56cbb417-c899-4a2d-8344-67288f0e4fc5_3_HD2022_nodrm_cf0b03bc-034c-4c98-aace-a6493c774830.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E09
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-fe76c9d7-e012-4c00-9bfa-659ef4595abb_6_HD2022/vid-dis-fe76c9d7-e012-4c00-9bfa-659ef4595abb_6_HD2022_nodrm_d9324875-d892-4b16-847d-168c1b5654a8.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E10
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-adfb5961-8b88-4109-873b-1f5e4e2057d2_3_HD2022/vid-dis-adfb5961-8b88-4109-873b-1f5e4e2057d2_3_HD2022_nodrm_51fdc855-1e2f-43e2-aa2c-1d8bd6be11ba.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E11
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-823d006c-e3af-4f67-a9a4-075955b31cbe_3_HD2022/vid-dis-823d006c-e3af-4f67-a9a4-075955b31cbe_3_HD2022_nodrm_613a8015-d822-4ba7-9b7e-368b202db52d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E12
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-aa1e8b99-2a13-4f71-ac36-abe3996bf54a_4_HD2022/vid-dis-aa1e8b99-2a13-4f71-ac36-abe3996bf54a_4_HD2022_nodrm_2fbac74d-1607-4e82-aec8-473846d49ab2.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S18E13
+https://vod.vrtcdn.be/ondemand/content/vod/vid-dis-b6e9f1ff-5327-4b37-9845-0dc8e9515b29_3_HD2022/vid-dis-b6e9f1ff-5327-4b37-9845-0dc8e9515b29_3_HD2022_nodrm_247b35d4-8512-41d1-b5c1-ec5ea4557fed.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E01
+https://vod.vrtcdn.be/remix/content/vod/pl-b779e7c3-b7f8-4ff0-bb6a-1fc4654f14eb/pl-b779e7c3-b7f8-4ff0-bb6a-1fc4654f14eb_nodrm_e07ceafe-5579-4da9-a721-8d478d90ac38.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E02
+https://vod.vrtcdn.be/remix/content/vod/pl-1b46595f-c9b3-41ee-b23d-6d8fb1cc64a3/pl-1b46595f-c9b3-41ee-b23d-6d8fb1cc64a3_nodrm_13d0bef3-e547-41c3-9fdb-51ac9e510235.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E03
+https://vod.vrtcdn.be/remix/content/vod/pl-1b71b6d7-c3f3-4373-8595-c5e27adc349c/pl-1b71b6d7-c3f3-4373-8595-c5e27adc349c_nodrm_03f3d5c5-2c73-4cdf-90cf-0411edfd0292.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E04
+https://vod.vrtcdn.be/remix/content/vod/pl-ff0e62cc-d513-4123-aa68-cae129e03fae/pl-ff0e62cc-d513-4123-aa68-cae129e03fae_nodrm_dfc0d4cf-b890-4707-8ae4-6fca2c9c1c3c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E05
+https://vod.vrtcdn.be/remix/content/vod/pl-15a412b2-1e63-4bd5-a29c-113e825a3250/pl-15a412b2-1e63-4bd5-a29c-113e825a3250_nodrm_2f7fed7f-2665-4d28-a750-888ed5db7e41.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E06
+https://vod.vrtcdn.be/remix/content/vod/pl-a446141b-652b-40cc-b5fb-c488c359ea30/pl-a446141b-652b-40cc-b5fb-c488c359ea30_nodrm_78fde0b2-1d0b-40dc-94c4-8d54a53684e5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E07
+https://vod.vrtcdn.be/remix/content/vod/pl-8895c53e-a311-4f15-9a12-64d7aa6ac1c2/pl-8895c53e-a311-4f15-9a12-64d7aa6ac1c2_nodrm_37df57cc-6e21-42e6-90d9-fba2f915f9ba.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E08
+https://vod.vrtcdn.be/remix/content/vod/pl-6569d821-f6b0-4395-bc64-5529c9aaedb3/pl-6569d821-f6b0-4395-bc64-5529c9aaedb3_nodrm_82a9f5bc-a59a-4607-8b95-cbf9f753cc96.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E09
+https://vod.vrtcdn.be/remix/content/vod/pl-a3601ed9-4b89-49ac-9f59-623fc48814f2/pl-a3601ed9-4b89-49ac-9f59-623fc48814f2_nodrm_d957770d-d8bf-4647-af82-b4b49e6b1b7c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E10
+https://vod.vrtcdn.be/remix/content/vod/pl-0a43b8f7-5cd1-4915-ac77-025acbce1b77/pl-0a43b8f7-5cd1-4915-ac77-025acbce1b77_nodrm_297a4ad8-ec7c-44d1-982e-28eff9ed5c20.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E11
+https://vod.vrtcdn.be/remix/content/vod/pl-f4863d35-ad2d-4d20-9bf9-d1c7e1ac2200/pl-f4863d35-ad2d-4d20-9bf9-d1c7e1ac2200_nodrm_eaf70a93-5c87-4d3b-9d3b-9dfe75459965.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E12
+https://vod.vrtcdn.be/remix/content/vod/pl-bc8cc983-a907-4d4b-9803-ae9737fe5247/pl-bc8cc983-a907-4d4b-9803-ae9737fe5247_nodrm_648ba061-9bfb-4dc3-9a06-ee66d80fa47f.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S19E13
+https://vod.vrtcdn.be/remix/content/vod/pl-27813db6-e949-4ace-b81e-46dc13bf9530/pl-27813db6-e949-4ace-b81e-46dc13bf9530_nodrm_0ad6f603-8545-425f-94c6-55a38e42bc59.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E02
+https://vod.vrtcdn.be/remix/content/vod/pl-9b36da43-37b5-4e2f-bd6e-7b9fea054ca0/pl-9b36da43-37b5-4e2f-bd6e-7b9fea054ca0_nodrm_76403a8d-3064-4e0c-81c8-a6facb57d48a.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E03
+https://vod.vrtcdn.be/remix/content/vod/pl-f0f4140d-1ee9-4e49-9a38-15d7c16878c6/pl-f0f4140d-1ee9-4e49-9a38-15d7c16878c6_nodrm_b7d080ea-981d-4677-a6de-885e6050df42.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E04
+https://vod.vrtcdn.be/remix/content/vod/pl-f8821da9-1860-4faf-8f0b-5a6834845329/pl-f8821da9-1860-4faf-8f0b-5a6834845329_nodrm_e2e3b692-7d16-4914-bf8d-ff53c2076b20.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E05
+https://vod.vrtcdn.be/remix/content/vod/pl-7433fd8b-ded2-40a8-8b14-05f62141eb6e/pl-7433fd8b-ded2-40a8-8b14-05f62141eb6e_nodrm_b7896c24-59fc-4967-b0a2-e39087d61626.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E06
+https://vod.vrtcdn.be/remix/content/vod/pl-6e54bd70-a4c0-41b0-957e-0a6490b655a1/pl-6e54bd70-a4c0-41b0-957e-0a6490b655a1_nodrm_ddbc0f76-d7d0-4f0c-9e2b-767dec40cace.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E07
+https://vod.vrtcdn.be/remix/content/vod/pl-3dcf6a05-7d29-4cc6-a6ff-0f786156de36/pl-3dcf6a05-7d29-4cc6-a6ff-0f786156de36_nodrm_7e4c8af5-8759-422f-a585-0b04a512305b.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E08
+https://vod.vrtcdn.be/remix/content/vod/pl-79ae96e4-d8bb-440f-a561-e9d4cc5e2176/pl-79ae96e4-d8bb-440f-a561-e9d4cc5e2176_nodrm_b8a9ef80-80b8-4fca-a17a-42f4297eab12.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E09
+https://vod.vrtcdn.be/remix/content/vod/pl-654f38f6-c988-42a4-ad85-31d71b9d7b4c/pl-654f38f6-c988-42a4-ad85-31d71b9d7b4c_nodrm_a0a8d2a6-979b-4200-9a9e-241da86cdde0.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E10
+https://vod.vrtcdn.be/remix/content/vod/pl-3290ce36-5aeb-4cc4-a1f4-f4b4cacfad81/pl-3290ce36-5aeb-4cc4-a1f4-f4b4cacfad81_nodrm_195eb017-e97d-45fe-888a-6d3c71fb5ec6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E11
+https://vod.vrtcdn.be/remix/content/vod/pl-b287d228-8d6f-4d9f-ad66-912e02200775/pl-b287d228-8d6f-4d9f-ad66-912e02200775_nodrm_7a936a2d-9f55-4a8c-8e6d-be6658fb2ea7.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E12
+https://vod.vrtcdn.be/remix/content/vod/pl-4e5cb999-0845-4c44-9e74-3a601010f293/pl-4e5cb999-0845-4c44-9e74-3a601010f293_nodrm_72dde774-cf8e-48ea-92ca-c32808030ad1.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S20E13
+https://vod.vrtcdn.be/remix/content/vod/pl-31e7af0e-9f90-4759-9f18-63e45b2d2b24/pl-31e7af0e-9f90-4759-9f18-63e45b2d2b24_nodrm_498f4583-ab97-4eed-85e7-c6a110a57c8d.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E01
+https://vod.vrtcdn.be/remix/content/vod/pl-1a3aa5b8-3b62-4243-91a8-63f6b9ed9ff2/pl-1a3aa5b8-3b62-4243-91a8-63f6b9ed9ff2_nodrm_195d181f-8be2-48b8-8fea-f9b5dc296a80.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E02
+https://vod.vrtcdn.be/remix/content/vod/pl-3ce2abd9-cca9-4bad-a752-97d9444d4b4a/pl-3ce2abd9-cca9-4bad-a752-97d9444d4b4a_nodrm_32a33c28-d517-4def-a731-92ef8398b172.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E03
+https://vod.vrtcdn.be/remix/content/vod/pl-0d45011d-4009-48d6-a26c-3a1169793d54/pl-0d45011d-4009-48d6-a26c-3a1169793d54_nodrm_8531f516-161a-44be-9217-4eb25ce6bbba.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E04
+https://vod.vrtcdn.be/remix/content/vod/pl-996e5e57-1f81-4af6-8b9b-d8056310b6da/pl-996e5e57-1f81-4af6-8b9b-d8056310b6da_nodrm_d83f6cb8-73f7-43f7-ab4b-12ddf0562524.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E05
+https://vod.vrtcdn.be/remix/content/vod/pl-e0cc9c11-f3ff-4ba6-9966-07720b60a643/pl-e0cc9c11-f3ff-4ba6-9966-07720b60a643_nodrm_99099e6d-aec5-4a2c-834f-bb3f399a06d6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E06
+https://vod.vrtcdn.be/remix/content/vod/pl-7edfa6b1-968e-4e04-ac2a-d2ede6cf48ea/pl-7edfa6b1-968e-4e04-ac2a-d2ede6cf48ea_nodrm_376934d4-5629-45a3-9105-a0f6a616b3b6.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E07
+https://vod.vrtcdn.be/remix/content/vod/pl-51c87c50-f60d-4d94-be42-e92370e7f006/pl-51c87c50-f60d-4d94-be42-e92370e7f006_nodrm_d5deb668-6af9-4103-8d50-acdc38442565.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E08
+https://vod.vrtcdn.be/remix/content/vod/pl-b41fc4a6-45f5-4bfc-89b2-765b5de8e079/pl-b41fc4a6-45f5-4bfc-89b2-765b5de8e079_nodrm_94562463-0456-40c2-b860-58077b33dab5.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E09
+https://vod.vrtcdn.be/remix/content/vod/pl-23cc16bd-ddb3-4da3-89b6-27c55c30305e/pl-23cc16bd-ddb3-4da3-89b6-27c55c30305e_nodrm_b7229bb5-0781-46ce-b9d8-77e62c951c80.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E10
+https://vod.vrtcdn.be/remix/content/vod/pl-7cb809c8-0469-4334-bff4-267b15030ce1/pl-7cb809c8-0469-4334-bff4-267b15030ce1_nodrm_4f085c4c-4240-48a2-b386-01fa8108c852.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E11
+https://vod.vrtcdn.be/remix/content/vod/pl-70fc9284-3320-4698-86a2-eb17772750ca/pl-70fc9284-3320-4698-86a2-eb17772750ca_nodrm_f2ffbfd1-8f8b-41e0-aada-b9d1afe2f9f9.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 group-title="De kampioenen",De kampioenen - S21E13
+https://vod.vrtcdn.be/remix/content/vod/pl-02b6fd46-cdd5-4390-97be-d8a6808417ff/pl-02b6fd46-cdd5-4390-97be-d8a6808417ff_nodrm_f8dd39be-8d66-430a-a492-162f37233a2c.ism/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
