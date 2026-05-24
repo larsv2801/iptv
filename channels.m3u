@@ -98,15 +98,3 @@ https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
 #EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
 https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
-
-#EXTINF:-1  tvg-name="Stan Sport" tvg-logo="https://iconlogovector.com/uploads/images/2025/09/lg-68ba295061ad8-Stan-Sport.webp", Stan Sport
-https://oe1.ossfeed.store/out/v2/82cabf2cb023f0829e154fa0fad8fbd7/master.css
-
-#EXTINF:-1  tvg-name="BeIn Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", BeIn Sports
-https://oe1.ossfeed.store/out/v2/ca1b689b41b73035f1b7764fca5ff8ba/master.css
-
-#EXTINF:-1  tvg-name="F1 acadamy" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/PNG%20RGB%2072%20DPI-F1Academy_RGB_NEG_Stacked.webp", F1 acadamy
-https://oe1.ossfeed.store/out/v2/b012cd5b4aaa7097e122f5b8bbccf65d/master.css
-
-#EXTINF:-1  tvg-name="FS1" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png", FS1
-https://oe1.ossfeed.store/out/v2/54adac10d63b823565f0b9fcd8ee6238/master.css
