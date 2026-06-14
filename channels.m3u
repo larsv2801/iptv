@@ -99,6 +99,12 @@ https://proxy.f1live.dpdns.org/m3u8?url=https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-name="Formule 1 - 7" tvg-logo="https://i.imgur.com/R2UMxxp.png", Formule 1 7
 https://601.formaturamaxi.com.br/f1.m3u8
 
+#EXTINF:-1 tvg-name="Formule 1 - 8" tvg-logo="https://i.imgur.com/R2UMxxp.png", Formule 1 8
+https://nl-081-v1.vivocdn.xyz/1781454939/18092516b25d4b94a49c02d73ad52101/CI9C3kvNCuEYyIw0gzX_vKkM8wTG-KUK6aPK3xJDTa8/sky-sports-f1.m3u8
+
+#EXTINF:-1 tvg-name="Formule 1 - 9" tvg-logo="https://i.imgur.com/R2UMxxp.png", Formule 1 9
+https://proxy1.f1live.dpdns.org/m3u8?url=https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://colorlib.com/wp/wp-content/uploads/sites/2/olympic-logo-2024.png", Olympic Channel
 https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
