@@ -110,3 +110,12 @@ https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
 #EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
 https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
+
+#EXTINF:-1  tvg-name="Moana" group-title="Movies" sub-src="https://cache.vdrk.site/v1/vtt/movie/1108427/English.vtt" tvg-logo="https://image.tmdb.org/t/p/w780/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg", Moana
+https://fuckme.dragonballzfans.xyz/b63d9b1c2d4a77a6a80715d486d98e9d/ec44422a1d17ec80bb7c227a1f4fba28.m3u8
+
+#EXTINF:-1  tvg-name="Spider-Man: Brand New Day" group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg", Spider-Man: Brand New Day
+https://shrek.dragonballzfans.xyz/proxy?data=K40uAvJTn2_Gc_6HaSi9FlTaY-kwhEpbmODitRVIQBpKl3PLV-n9PAFWoyx9SQuKaK2ezhJNrQfYbQmFwW2LN4G7AV2vw90k-HVkr8AFGGV83XJgaEwD87hgvV_GOxiu1Nmes2DTPY9wEbZccPes6WqTUulc28hkftrZo_kgJEqQurdLysVyLRrUt7VzRIDNBVcI8DQqb5C03hql3W3QE5aB0sQHHIAfRRs1ZjUDsPVfZqpEOQMYxK-UNyORZi6mVlGXRN45t8a3GSJ1BnIpdVcKqLvAmYY-W7PKuu_ALlBa_mSD-S6T2GIaG2iPhh6iQ7hgyHn-kOF-a1Ay_QS9qQp58z7BQRVLXMApFse4iw--YVMbTJjYm74nYICdJWxgJwSFexTOk03K
+
+#EXTINF:-1  tvg-name="Toy Story 5" group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w780/hApclyB9NEZEQujAVajzi5iWE4a.jpg", Toy Story 5
+https://fuckme.dragonballzfans.xyz/2216ef7697079dcfd8d4265de93f48a1/9ff2cf73c4b2b82bf2c39288083de119.m3u8
