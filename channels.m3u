@@ -108,14 +108,5 @@ https://proxy1.f1live.dpdns.org/m3u8?url=https://amg12058-amg12058c1-vidaa-us-86
 #EXTINF:-1 tvg-name="Olympic Channel" tvg-logo="https://colorlib.com/wp/wp-content/uploads/sites/2/olympic-logo-2024.png", Olympic Channel
 https://ott-dai-oc.akamaized.net/OC1/master.m3u8
 
-#EXTINF:-1  tvg-name="Natuurbeelden" tvg-logo="https://static.thenounproject.com/png/284709-200.png", Natuurbeelden
-https://hd-auth.skylinewebcams.com/live.m3u8?a=o1d823204u9h13ch3p5h2sgs55
-
-#EXTINF:-1  tvg-name="Moana" group-title="Movies" sub-src="https://cache.vdrk.site/v1/vtt/movie/1108427/English.vtt" tvg-logo="https://image.tmdb.org/t/p/w780/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg", Moana
-https://fuckme.dragonballzfans.xyz/b63d9b1c2d4a77a6a80715d486d98e9d/ec44422a1d17ec80bb7c227a1f4fba28.m3u8
-
-#EXTINF:-1  tvg-name="Spider-Man: Brand New Day" group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg", Spider-Man: Brand New Day
-https://shrek.dragonballzfans.xyz/proxy?data=K40uAvJTn2_Gc_6HaSi9FlTaY-kwhEpbmODitRVIQBpKl3PLV-n9PAFWoyx9SQuKaK2ezhJNrQfYbQmFwW2LN4G7AV2vw90k-HVkr8AFGGV83XJgaEwD87hgvV_GOxiu1Nmes2DTPY9wEbZccPes6WqTUulc28hkftrZo_kgJEqQurdLysVyLRrUt7VzRIDNBVcI8DQqb5C03hql3W3QE5aB0sQHHIAfRRs1ZjUDsPVfZqpEOQMYxK-UNyORZi6mVlGXRN45t8a3GSJ1BnIpdVcKqLvAmYY-W7PKuu_ALlBa_mSD-S6T2GIaG2iPhh6iQ7hgyHn-kOF-a1Ay_QS9qQp58z7BQRVLXMApFse4iw--YVMbTJjYm74nYICdJWxgJwSFexTOk03K
-
-#EXTINF:-1  tvg-name="Toy Story 5" group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w780/hApclyB9NEZEQujAVajzi5iWE4a.jpg", Toy Story 5
-https://fuckme.dragonballzfans.xyz/2216ef7697079dcfd8d4265de93f48a1/9ff2cf73c4b2b82bf2c39288083de119.m3u8
+#EXTINF:-1  tvg-name="Fireplace" tvg-logo="https://i.ytimg.com/vi/mKCieTImjvU/hq720.jpg?v=65593b6d&amp;sqp=CJjqtdUG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLAbd5OOkVGrN9n26stQLsP1X6QZkw", Fireplace
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789774456/ei/F3atavasJriXv_IP3NjqsQ4/ip/2a02:1811:9d30:ef00:9530:f8:35e6:4d0b/id/mKCieTImjvU.5/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr6---sn-uxaxoxu-cg0r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AR3QkAkqYYADeAtbq2S4dz16ZAteZ1mUoCXseECtdGAiKRmPgY-erbj3J6gp2BVp6P39beGOU09cX2aC/spc/I-rgISEnJpz-Ejr7wY4H-UX0eqRPWzkPExaKswINkKzMr2MZcnfTufbTJQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3067500/met/1789752857,/mh/jb/mm/44/mn/sn-uxaxoxu-cg0r/ms/lva/mv/m/mvi/6/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51565115,52178455/mt/1789752267/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAMko5CgRdY4dANgFDqqJKA2bgU48KP4Jnab8KdnW3NY4AiA9zBsneSfDeLW5iZhL36b1CcS9s4zq78GqIoAzTI8sjg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANTdgbUJiQoB0AZYnQa9qvqNlZYF4cY1E0t5w0PcV2OZAiB1WtI7MroeNsp09rTrqawV0cJYKNK6Gvhy8RhXhXOJ1A%3D%3D/playlist/index.m3u8
